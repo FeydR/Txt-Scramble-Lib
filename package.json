@@ -1,0 +1,25 @@
+{
+  "name": "@feydr/txt-scramble-lib",
+  "version": "1.0.1",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",  
+  "files": [
+    "./dist",
+    "./src",
+    "./tests"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FeydR/txt-scramble-lib.git"
+  },
+  "scripts": {
+    "test": "vitest --run"
+  },
+  "keywords": [],
+  "author": "FeydR",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^0.34.6"
+  }
+}
