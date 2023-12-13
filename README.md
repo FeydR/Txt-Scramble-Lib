@@ -7,4 +7,4 @@
 `
 
 ### Install 
-`> npm i @feydr/txt-scrambler`
+`> npm i @feydr/txt-scramble-lib`
